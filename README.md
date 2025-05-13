@@ -33,7 +33,7 @@
 ## 🔗 Links
 
 - [My GitHub Projects](https://github.com/Wilfried2001)
-- [LinkedIn](https://www.linkedin.com/in/wilfried-amougui-a1ab352a1/) *(à remplacer)*
+- [LinkedIn](https://www.linkedin.com/in/wilfried-amougui-dev/) *(à remplacer)*
 - [Portfolio](https://mon-portfolio-drab-ten.vercel.app/) *(à remplacer)*
 
 
