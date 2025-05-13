@@ -10,7 +10,7 @@
 - 👀 I’m interested in **web & mobile development**
 - 🌱 I’m currently learning **React Native** with **Espo**
 - 💞️ I’m looking to collaborate on **diverse and exciting projects**
-- 📫 How to reach me: [wilfried.dev.contact@gmail.com](mailto:wilfried.dev.contact@gmail.com)
+- 📫 How to reach me: [wilfriedamougui@yahoo.com ](wilfriedamougui@yahoo.com)
 - 😄 Pronouns: *he/him*
 - ⚡ Fun fact: I love turning coffee into code ☕👨‍💻
 
